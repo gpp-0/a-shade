@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@atproto/api": "^0.18.16",
+    "@atproto/identity": "^0.4.10",
+    "@atproto/xrpc": "^0.7.7",
+    "@noble/curves": "^2.0.1",
+    "mysql2": "^3.16.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "typescript": "^5.9.3"
+  }
+}
